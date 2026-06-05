@@ -44,12 +44,6 @@ The project is designed for the following hardware setup:
 | Potentiometer | Controls denoising aggressiveness |
 | Jumper wires / breadboard | Wiring and prototyping |
 
-A component photo is included in the repository:
-
-```md
-![Hardware components](composants.jpg)
-```
-
 ---
 
 ## Software Requirements
